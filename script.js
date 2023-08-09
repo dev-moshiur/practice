@@ -45,6 +45,36 @@ const friends=[
         desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
         imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-1/335435765_450520770565171_441941474503371911_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG0SEw55S4wxwDnLhQj8nvtKjFzglJhkmYqMXOCUmGSZrNJ6qAn_Osy-8oTipAVXM7fUt94n8RQqjxxaMm7-t1Q&_nc_ohc=Ry2awQTE3CwAX-ty1Va&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDaBN36nlDOz3pwLvdoce23AH8WTgk-Mwh8i62IJd88WQ&oe=64D8D3B3`
     },
+    {
+        name:`Md Al Amin Islam`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t1.6435-1/66192221_164896461219151_5217737703830847488_n.jpg?stp=c0.7.200.200a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=2b6aad&_nc_eui2=AeGdNSm-Dl0hvjOFuL_epQQ1c6n17NMZmEtzqfXs0xmYS_YrPTVGI6oge29ZL1Jg83EZlGulp3qCLdIDeelLlxQe&_nc_ohc=By64NHnNLpcAX8Fsu5A&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDUq-pnjFyc1F52Bxmn04OXfgbzvsRe_2FfCEwjwmKsjw&oe=64FAEFA2`
+    },
+    {
+        name:`Md Yasin Islam`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t1.6435-9/54256953_125438841858017_8912083046442729472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeETGgChVWr-u3t6TumuP_pmFygILOgNo2kXKAgs6A2jaRea_szaD1ZjUUe7IYK3dfbdQnNCdTeQCdESi8j8uIrj&_nc_ohc=2b1ga6sWycsAX9woqmv&_nc_ht=scontent.fdac157-1.fna&oh=00_AfB5Zs72yZQXAULUjBBXVc4X1VkRmKsNyN-RJAEvWxWRPA&oe=64FB010D`
+    },
+    {
+        name:`Md Soriful Islam`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/293309812_124945603572293_2418202990091605948_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH6HuHXjjCiLASTMVOKmMzujeRysk4JnkaN5HKyTgmeRp-YA8Ky9KsmG7OdkYRShyLK4dejj8KUbFEEGxVUUain&_nc_ohc=BOVW1lCFyN8AX9Kz-hq&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCTCkMBlVD59fYlaC6OHVjSVRiQrGApbLZfI1_86Aoi_A&oe=64D8B74B`
+    },
+    {
+        name:`Md Sohel Rans`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/311995928_488113266669729_9046913499275713660_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGaiQETmj1IkIvMo_RClnQKREP0AqB6FnZEQ_QCoHoWdvW1UnIHwbRgggJv6ZeG9jpb3skMrkOcjNu0-UeXMo9O&_nc_ohc=rUw63NdCnV0AX8W1OQg&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDybkhQnvqzfZM3RpP4fw8Loiue9kXD-z79w9kR-NaYOg&oe=64D781D0`
+    },
+    {
+        name:`Md Rojibul Islam`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/354455006_1745972332472179_5553048361017681532_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGfaM73faNX5qQFqQ2tczSmWkMChV8U6M9aQwKFXxToz9lJbvmxqtc4Nb8XspzZSDnHKin6IpZoSuiC8oT3b1zC&_nc_ohc=DX_k_JegBNAAX8lTKgi&_nc_ht=scontent.fdac157-1.fna&oh=00_AfBITsFuNxCh9yHR7Xt9qDP2uwo8BsCEs_ba_Kc7I9QlkQ&oe=64D89B61`
+    },
+    {
+        name:`Md Rasidul Islam`,
+        desc:`Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ut iure culpa et rem porro quas error repudiandae consectetur perferendis facilis sapiente nihil assumenda ex cumque praesentium doloribus rerum.`,
+        imgSrc:`https://scontent.fdac157-1.fna.fbcdn.net/v/t1.6435-9/132205005_1018413712001485_6120527911383970550_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeGInJWYZNqCrW7IV167Jno_iZULDU_mwVCJlQsNT-bBUKNHqbOxSlPv1bf_jgZTbM8G2ZnhQuEQdi1OlIvfuO3V&_nc_ohc=MLA7HUmnG58AX9ELM5Y&_nc_ht=scontent.fdac157-1.fna&oh=00_AfAZ1lEomSMaPSdVMh50agD3HpvcvWu2ESs4gk7cUTnUpw&oe=64FAE4D1`
+    },
 ]
 
 
